@@ -31,5 +31,40 @@ Click on Start again to start again. It may take a little time to wait during th
 
 Operation introduction:
 ====
+Click on start
 
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/0-1.png" height="350"></div>
 
+1. Select the module to experience (recommended from left to right)
+
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/0-2.png" height="350"></div>
+
+(a) Draw
+
+You can use the mouse to write content in the interface. The speed of writing affects the results
+
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/1-1.png" height="350"></div> 
+
+Clicking on 1, 2 or 3 will bring up different styles of calligraphy, so you can imitate their feel and try a few more times.Click on “clear” to clear the contents of the screen(also close the picture).
+
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/1-2.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/1-3.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/1-4.png" height="350"></div>
+
+(b) Line
+
+Draw the lines in the left area. Different lengths and directions will make the generation of the fractal tree different.
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/2-1.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/2-2.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/2-3.png" height="350"> </div>
+
+( c ) Other
+
+Draw the image in the square area and click Start to generate the image. Click Start again to start again
+
+The corresponding fractal tree can be generated regardless of the simplicity/complexity of the picture drawn.
+
+<div align=center><img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/3-0.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/3-3.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/3-2.png" height="350"> 
+<img src="https://github.com/zhuzhuyr/Fractalling-Calligraphy/blob/main/pics/3-3.png" height="350"> </div>
